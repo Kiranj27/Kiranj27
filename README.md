@@ -1,5 +1,4 @@
 Hi there! 👋 I'm Kiran Jaiswal Charpuria
-🎯 About Me
 I am a passionate Data Analyst with a strong background in health informatics and data science. My experience includes analyzing healthcare data, building predictive models, and creating insightful dashboards. I enjoy exploring the intersection of technology and healthcare to improve outcomes and drive impactful decisions.
 
 💡 What I Do
@@ -7,6 +6,7 @@ I am a passionate Data Analyst with a strong background in health informatics an
 📊 Data Analytics: Skilled in SQL, Python (Pandas, NumPy), and Exploratory Data Analysis (EDA).
 📈 Data Visualization: Proficient in Tableau, Power BI, and creating interactive dashboards for actionable insights.
 🩺 Healthcare Analytics: Experienced with Electronic Medical Records (EMR) and clinical data management.
+
 🌟 Key Projects
 
 Optimizing Diabetes Patient Outcomes
